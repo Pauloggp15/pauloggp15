@@ -20,7 +20,7 @@
 
 ## Onde estudo/estudei:
 <div align=left>
-    <a href="https://www.uninter.com/graduacao-ead/curso-analise-e-desenvolvimento-de-sistemas/" target="_blank"><img width="50px" height="50px" src="uninter.png"/></a>
+    <a href="https://www.uninter.com/graduacao-ead/curso-analise-e-desenvolvimento-de-sistemas/" target="_blank" rel="noopener noreferrer"><img width="50px" height="50px" src="uninter.png"/></a>
     <a href="https://www.cursoemvideo.com/cursos/" target="_blank"><img width="50px" height="50px" src="curso em video.png"/></a>
     <a href="https://www.instagram.com/adriana.saty/" target="_blank"><img width="50px" height="50px" src="kiwife.jpg"/></a>
 </div>
