@@ -10,7 +10,7 @@
 
 ## Tecnologias que uso:
 
-<div display>
+<div style="display: inline_block">
     <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
     <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -19,7 +19,9 @@
 </div><br>
 
 ## Onde estudo/estudei:
+<div align=left>
+    <a href="https://www.uninter.com/graduacao-ead/curso-analise-e-desenvolvimento-de-sistemas/" target="_blank"><img width="50px" height="50px" src="uninter.png"/></a>
+    <a href="https://www.cursoemvideo.com/cursos/" target="_blank"><img width="50px" height="50px" src="curso em video.png"/></a>
+    <a href="https://www.instagram.com/adriana.saty/" target="_blank"><img width="50px" height="50px" src="kiwife.jpg"/></a>
+</div>
 
-[![UNINTER]()]()
-[![CURSOEMVIDEO]()]()
-[![STEPONE]()]()
