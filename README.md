@@ -1,4 +1,4 @@
-## Olá! Eu sou o Paulo Gustavo 👋
+## 🧍Olá! Eu sou o Paulo Gustavo 👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pauloggp/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-gustavo-gomes-pereira-578583206/)
@@ -8,7 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pauloggp15&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Tecnologias que uso:
+## 🧑🏻‍💻Tecnologias que uso:
 
 <div style="display: inline_block">
     <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -18,10 +18,10 @@
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </div><br>
 
-## Onde estudo/estudei:
+## 📚Onde estudo/estudei:
 <div align=left>
-    <a href="https://www.uninter.com/graduacao-ead/curso-analise-e-desenvolvimento-de-sistemas/" target="_blank" rel="noopener noreferrer"><img width="50px" height="50px" src="uninter.png"/></a>
-    <a href="https://www.cursoemvideo.com/cursos/" target="_blank"><img width="50px" height="50px" src="curso em video.png"/></a>
-    <a href="https://www.instagram.com/adriana.saty/" target="_blank"><img width="50px" height="50px" src="kiwife.jpg"/></a>
+    <a href="https://www.uninter.com/graduacao-ead/curso-analise-e-desenvolvimento-de-sistemas/" ><img width="50px" height="50px" src="uninter.png"/></a>
+    <a href="https://www.cursoemvideo.com/cursos/"><img width="50px" height="50px" src="curso em video.png"/></a>
+    <a href="https://www.instagram.com/adriana.saty/"><img width="50px" height="50px" src="kiwife.jpg"/></a>
 </div>
 
